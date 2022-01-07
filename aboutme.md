@@ -1,6 +1,3 @@
----
 layout: page
-title: Coursework
----
-
-Text for your page goes here.
+title: "aboutme"
+permalink: JBommarito363.github.io/aboutme
