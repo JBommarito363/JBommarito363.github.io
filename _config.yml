@@ -1,3 +1,14 @@
-theme: jekyll-theme-dinky
-title: Joseph Bommarito Homepage
-description: Check back here for updated information about myself and my various research projects.
+remote_theme: samarsault/plainwhite-jekyll
+
+plainwhite:
+  name: Joseph Bommarito
+  tagline: Ph.D. Political Science
+
+  social_links:
+    twitter: josephb363
+    github: JBommmarito363
+    linkedIn: in/joseph-bommarito-26466477/ # format: locale/username
+
+  navigation:
+    - title: Resume
+      url: "/resume"
